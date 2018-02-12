@@ -1,0 +1,14 @@
+// Typo
+@font-size-root: 16px;
+@font-size-base : 1.125em;
+@font-family: Georgia, serif;
+@line-height: 1.5em;
+
+// Couleurs
+@color-base: #556270;
+@color-background : #A7DBD8;
+
+// Structure
+@column-width : unit((96px / @font-size-root), rem);
+
+
